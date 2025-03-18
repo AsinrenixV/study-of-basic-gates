@@ -88,10 +88,10 @@ endmodule
 
 
 **RTL realization Output:** 
-![alt text](<Screenshot (117).png>)
+![alt text](<Screenshot (172)-1.png>)
 
 **RTL**
-![alt text](<Screenshot (172).png>)
+![alt text](<Screenshot (117)-1.png>)
 
 **Result:**
 Thus the code executed successfully.
